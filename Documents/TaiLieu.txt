@@ -1,0 +1,5 @@
+https://www.cplusplus.com/reference/cstdlib/rand/
+https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/
+https://www.geeksforgeeks.org/inheritance-in-c/
+https://www.youtube.com/watch?v=5joTAfCwIFw
+https://www.youtube.com/watch?v=uhgQDsECuBk
